@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomLists</string>
+
+    <string-array name="text">
+        <item>Welcome</item>
+        <item>To My App</item>
+    </string-array>
+</resources>
